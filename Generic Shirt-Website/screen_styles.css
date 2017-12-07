@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* the body container */
+.Container 
+{
+	max-width: 980px;
+	margin: 0px auto 0px auto; 
+	
+	background-color:#A4A4A4;
+	padding: 1px 0px 30px 0px;
+	overflow:hidden;
+	
+}
+
+.pagination {
+    
+	float:right;
+}
+
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+	
+}
